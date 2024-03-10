@@ -1,7 +1,8 @@
 # Семён
-<img    style="margin-right: 30; width: 200"
+<img    style="margin-right: 30"
         src="ice_king.jpg"
         alt="ce_king"
+        width=200
         align="left">
 
 Привет! Я прохожу курс Основы Python.  
